@@ -1,0 +1,6 @@
+.history/
+.vscode/
+rife-ncnn-vulkan-20210227-ubuntu/
+waifu2x-ncnn-vulkan-20210210-ubuntu/
+workspace/*
+__pycache__/
