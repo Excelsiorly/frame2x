@@ -1,4 +1,4 @@
-# Frame2x 倍帧工具
+# Frame2x
 
 
 ## requirements
@@ -41,4 +41,4 @@
    ```
 ---
 - Thanks [video2x](https://github.com/k4yt3x/video2x) for inspiring the progress monitor part.
-- if you by chance(which is most unlikely) notice this repo and by chance(which is also most unlikely) care about the bugs in these codes, you may not be recommanded to new a issue, because I will give up fixing it. XD
+- if you by chance(which is most unlikely) notice this repo and by chance(which is also most unlikely) care about the bugs in these codes, you may not be recommended to new an issue, because I will give up fixing it. XD
