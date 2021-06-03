@@ -1,5 +1,5 @@
 # Frame2x
-
+[中文](https://gitee.com/excelsiorly/frame2x/blob/master/README.md)
 
 ## requirements
 1. ```linux```
