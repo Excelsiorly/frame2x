@@ -1,10 +1,9 @@
 # Frame2x 倍帧工具
 
-
 ## requirements
 1. ```linux```
 2. 需要 ```ffmpeg```、```vulkan```
-3. 需要```RIFE-NCNN-VULKAN```模型,[下载点这里](https://github.com/nihui/rife-ncnn-vulkan/releases/download/20210520/rife-ncnn-vulkan-20210520-ubuntu.zip), 下载完成后解压到根目录，保持如下结构：
+3. 需要```RIFE-NCNN-VULKAN```模型,[下载点这里](https://github.com/nihui/rife-ncnn-vulkan/releases/download/20210520/rife-ncnn-vulkan-20210520-ubuntu.zip), 下载完成后解压到根目录，保持整个目录结构如下：
 ```
 - rife-ncnn-vulkan-20210227-ubuntu
  -- rife
@@ -41,4 +40,4 @@
    ```
 ---
 - 代码参考 [video2x](https://github.com/k4yt3x/video2x)，感谢关于进度条的启发
-- 如果大概可能、或许有人看到本仓库，甚至大概可能、或许有人发现了bug，不用发issues，大概不会想改自己的垃圾代码
+- 如果大概可能、或许有人看到本仓库，甚至大概可能、或许有人发现了bug，最好放弃发issues，因为我大概不会想改自己的垃圾代码 XD
