@@ -1,5 +1,5 @@
 # Frame2x 倍帧工具
-[English](https://gitee.com/excelsiorly/frame2x/blob/master/README-EN.md)
+[English](https://github.com/Excelsiorly/frame2x/blob/master/README-EN.md)
 
 ## requirements
 1. ```linux```
